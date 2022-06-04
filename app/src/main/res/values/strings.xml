@@ -1,0 +1,4 @@
+<resources>
+    <string name="news_a">News A</string>
+    <string name="app_name">RecyclerView</string>
+</resources>
