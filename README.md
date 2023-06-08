@@ -2,7 +2,9 @@
 
 <p align="center"> 
 
-![Ttrack](https://user-images.githubusercontent.com/108725514/209465235-b7971a0a-a70c-4ae5-941b-35d993491663.png)
+<img src="https://i.ibb.co/TgbrjTg/translogo-Dark.png" width="300"/> 
+  
+<img src="https://user-images.githubusercontent.com/108725514/209465235-b7971a0a-a70c-4ae5-941b-35d993491663.png" width="150"/>
 
 </p>
 
